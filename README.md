@@ -30,4 +30,5 @@ Run the following command:
 * Replace your_script_name.js with the name of the file where you've saved your code (e.g., app.js).
 
 **terminal output**
-<img width="802" alt="Screenshot 2024-04-08 at 3 01 17 pm" src="https://github.com/gaurav3444/sit323-737-2024-t1-prac4p/assets/66586901/b46c2030-6350-4796-9651-c46dfcd7d916">
+
+* <img width="802" alt="Screenshot 2024-04-08 at 3 01 17 pm" src="https://github.com/gaurav3444/sit323-737-2024-t1-prac4p/assets/66586901/b46c2030-6350-4796-9651-c46dfcd7d916">
